@@ -98,7 +98,7 @@ Prior to my master's program, I worked as an **Audit Associate at KPMG**, where 
 I'm actively seeking **internship and full-time opportunities** in equity research, valuation, financial analysis, and investment management. I'm always happy to discuss financial modeling, valuation frameworks, or potential collaborations.
 
 - 💼 **LinkedIn:** [linkedin.com/in/nidhitd786](https://www.linkedin.com/in/nidhitd786/)
-- 📧 **Email:** [your.email@example.com]nidhitd786@gmail.com)
+- 📧 **Email:** [nidhitd786@gmail.com](mailto:nidhitd786@gmail.com)
 - 💻 **GitHub:** [github.com/tdnidhi](https://github.com/tdnidhi)
 
 ---
